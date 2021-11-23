@@ -1,4 +1,4 @@
-# Project Name
+Sudoku
 
 This repository is a final project (Java GUI) from Object-Oriented Programming Class, Teknik Informatika Universitas Padjadjaran. 
 
@@ -7,15 +7,15 @@ This repository is a final project (Java GUI) from Object-Oriented Programming C
 **Please create a description for this project here**
 
 ## Credits
-| NPM           | Name        |
-| ------------- |-------------|
-| 140810xx00xx  | John Doe    |
-| 140810xx00xx  | Jane Doe    |
-| 140810xx00xx  | Lorem Ipsum |
+| NPM           | Name                    |
+| ------------- |-------------------------|
+| 140810200018  | Zhillan Thafhan Ahda    |
+| 140810200038  | Pujo Prayogo            |
+| 140810200062  | Zahran Hanif Fathanmubin|
 
 ## Change log
 - **[Sprint Planning](changelog/sprint-planning.md) - (planning date)** 
-   -  Short changes 1
+   - Short changes 1
    - Short changes 2
 
 - **[Sprint 1](changelog/sprint-1.md) - (date from x until x)** 
