@@ -18,20 +18,23 @@ This repository is a final project (Java GUI) from Object-Oriented Programming C
    - Menu
    - Set level
    - Bikin ukuran sudoku 3x3 (1 petak) & 9x9 (keseluruhan) -> Ada 3 petak 
-   - restart
-   - reset
+   - Reset
+   - Undo
+   - Cek angka biar gak sama
+   - Highlight
 
-- **[Sprint 1](changelog/sprint-1.md) - (date from x until x)** 
+- **[Sprint 1](changelog/sprint-1.md) - (17/11/2021 x 23/11/2021)** 
    - Bikin ukuran sudoku 3x3 (1 petak) & 9x9 (keseluruhan) -> Ada 3 petak 
-   - Set level
+   - Menu level
 
-- **[Sprint 2](changelog/sprint-2.md) - (date from x until x)** 
-   - Short changes 1
-   - Short changes 2
+- **[Sprint 2](changelog/sprint-2.md) - (25/11/2021 x 01/12/2021)** 
+   - Reset
+   - Undo
+   - Set level 
    
-- **[Sprint 3](changelog/sprint-3.md) - (date from x until x)** 
-   - Short changes 1
-   - Short changes 2
+- **[Sprint 3](changelog/sprint-3.md) - (02/12/2021 x 07/12/2021)** 
+   - Cek angka
+   - Highlight
 
 ## Running The App
 
