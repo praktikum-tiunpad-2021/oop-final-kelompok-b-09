@@ -14,13 +14,16 @@ This repository is a final project (Java GUI) from Object-Oriented Programming C
 | 140810200062  | Zahran Hanif Fathanmubin|
 
 ## Change log
-- **[Sprint Planning](changelog/sprint-planning.md) - (planning date)** 
-   - Short changes 1
-   - Short changes 2
+- **[Sprint Planning](changelog/sprint-planning.md) - (17/11/2021)** 
+   - Menu
+   - Set level
+   - Bikin ukuran sudoku 3x3 (1 petak) & 9x9 (keseluruhan) -> Ada 3 petak 
+   - restart
+   - reset
 
 - **[Sprint 1](changelog/sprint-1.md) - (date from x until x)** 
-   - Short changes 1
-   - Short changes 2
+   - Bikin ukuran sudoku 3x3 (1 petak) & 9x9 (keseluruhan) -> Ada 3 petak 
+   - Set level
 
 - **[Sprint 2](changelog/sprint-2.md) - (date from x until x)** 
    - Short changes 1
