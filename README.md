@@ -23,11 +23,11 @@ This repository is a final project (Java GUI) from Object-Oriented Programming C
    - Cek angka biar gak sama
    - Highlight
 
-- **[Sprint 1](changelog/sprint-1.md) - (17/11/2021 x 23/11/2021)** 
+- **[Sprint 1](changelog/sprint-1.md) - (17/11/2021 x 25/11/2021)** 
    - Bikin ukuran sudoku 3x3 (1 petak) & 9x9 (keseluruhan) -> Ada 3 petak 
    - Menu level
 
-- **[Sprint 2](changelog/sprint-2.md) - (25/11/2021 x 01/12/2021)** 
+- **[Sprint 2](changelog/sprint-2.md) - (26/11/2021 x 01/12/2021)** 
    - Reset
    - Undo
    - Set level 
