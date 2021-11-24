@@ -15,11 +15,11 @@
 
 ## Sprint 1 Backlog
 
-| ID  | Title/Desc | Asignee | Status                            |
-| --- | ---------- | ------- | ------                            |
-| 1.1 | Instalasi Grid       | Zhillan, Pujo, Zahran  | DONE     |
-| 1.2 | Implementasi PBO     | Zahran                 | DONE     |
-| 1.3 | Buat Grid            | Zahran                 | UNDONE   |
+| ID  | Title/Desc           | Asignee                | Status             |
+| --- | ----------           | -------                | ------             |
+| 1.1 | Instalasi Gradle     | Zhillan, Pujo, Zahran  | DONE               |
+| 1.2 | Implementasi PBO     | Zahran                 | DONE               |
+| 1.3 | Buat Grid            | Zahran                 | UNDONE             |
 
 ## Retrospective 
 
@@ -29,4 +29,4 @@ Sprint kemarin karena masih nyoba-nyoba jadi belom beres
 | ID  | Title/Desc | Asignee | 
 | --- | ---------- | ------- | 
 | 2.1 | Reset      | Zhillan | 
-| 2.2 | Set Level  | Zahran  | 
+| 2.2 | Set Level  | Pujo    | 
