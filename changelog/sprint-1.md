@@ -17,8 +17,8 @@
 
 | ID  | Title/Desc           | Asignee                | Status             |
 | --- | ----------           | -------                | ------             |
-| 1.1 | Instalasi Gradle     | Zhillan, Pujo, Zahran  | DONE               |
-| 1.2 | Implementasi PBO     | Zahran                 | UNDONE             |
+| 1.1 | Inisiai Projek       | Zhillan, Pujo, Zahran  | DONE               |
+| 1.2 | Implementasi PBO     | Zhillan, Pujo, Zahran  | UNDONE             |
 | 1.3 | Buat Grid            | Zahran                 | UNDONE             |
 
 ## Retrospective 
