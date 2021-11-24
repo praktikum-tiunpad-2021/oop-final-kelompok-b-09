@@ -5,8 +5,8 @@
 | NPM           | Name        |
 | ------------- |-------------|
 | 140810200018  | Zhillan     |
-| 140810xx00xx  | Pujo        |
-| 140810xx00xx  | Zahran      |
+| 140810200038  | Pujo        |
+| 140810200062  | Zahran      |
 
 ## Sprint Overview
 | Planned (n)   | Completed (n) |
@@ -15,14 +15,15 @@
 
 ## Sprint 1 Backlog
 
-| ID  | Title/Desc | Asignee | Status   |
-| --- | ---------- | ------- | ------   |
-| 1.1 | Buat grid | Zahran   | ON GOING |
-| 1.2 | Menu      | Pujo     | FAILED   |
+| ID  | Title/Desc | Asignee | Status                            |
+| --- | ---------- | ------- | ------                            |
+| 1.1 | Instalasi Grid       | Zhillan, Pujo, Zahran  | DONE     |
+| 1.2 | Implementasi PBO     | Zahran                 | DONE     |
+| 1.3 | Buat Grid            | Zahran                 | UNDONE   |
 
 ## Retrospective 
 
-Sprint kemarin dianggap terlalu sedikit sehingga diperlukan adanya penyesuaian tugas. Lorem ipsum dolor sit amet
+Sprint kemarin karena masih nyoba-nyoba jadi belom beres
 
 ## Next Sprint Backlog (Sprint 2)
 | ID  | Title/Desc | Asignee | 

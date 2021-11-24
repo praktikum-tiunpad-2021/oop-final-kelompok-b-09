@@ -11,8 +11,8 @@
 ## Sprint Backlog Keseluruhan 
 | ID  | Title/Desc  | Asignee | 
 | --- | ----------  | ------- | 
-| 1.1 | Buat Grid   | Zahran | 
-| 2.2 | Menu| Pujo | 
+| 1.1 | Buat Grid   | Zahran  | 
+| 2.2 | Menu        | Pujo    | 
 
 ## Sprint Backlog Plan (Sprint 1)
 | ID  | Title/Desc | Asignee | 
