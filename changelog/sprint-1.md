@@ -2,11 +2,11 @@
 | From dd/mm/yyyy to dd/mm/yyyy
 
 ## Team (Insert your name)
-| NPM           | Name        |
-| ------------- |-------------|
-| 140810200018  | Zhillan     |
-| 140810200038  | Pujo        |
-| 140810200062  | Zahran      |
+| NPM           | Name                     |
+| ------------- |-------------             |
+| 140810200018  | Zhillan Thafhan Ahda     |
+| 140810200038  | Pujo Prayogo             |
+| 140810200062  | Zahran Hanif Fathanmubin |
 
 ## Sprint Overview
 | Planned (n)   | Completed (n) |
