@@ -22,4 +22,3 @@
 | --- | ---------------- | ------- | ------  |
 | 3.1 | Rapihin File     | Zhillan | DONE    |
 | 3.2 | Cek Bug          | Pujo    | DONE    |
-| 3.3 | Testing Game     | Zahran  | DONE    |
