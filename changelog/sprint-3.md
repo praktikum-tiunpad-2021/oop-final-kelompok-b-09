@@ -18,7 +18,7 @@
 | 3.5 | Rapihin Github   | Pujo    | DONE    |
 | 3.6 | Finishing        | Zahran  | DONE    |
 
-## Sprint 2 Backlog
+## Sprint 3 Backlog
 | ID  | Title/Desc       | Asignee | Status  |
 | --- | ---------------- | ------- | ------  |
 | 3.1 | Rapihin File     | Zhillan | DONE    |
