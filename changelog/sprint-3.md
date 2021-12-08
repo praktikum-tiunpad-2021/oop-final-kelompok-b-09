@@ -11,13 +11,13 @@
 ## Sprint Overview
 | ID  | Title/Desc       | Asignee | Status  |
 | --- | ---------------- | ------- | ------  |
-| 3.1 | Buat Readme      | Pujo    | DONE    |
-| 3.2 | Rapihin Folder   | Zahran  | DONE    |
-| 3.3 | Finishing        | All     | DONE    |
+| 3.1 | Buat Readme      | Zhillan | DONE    |
+| 3.2 | Rapihin Github   | Pujo    | DONE    |
+| 3.3 | Finishing        | Zahran  | DONE    |
 
 ## Sprint 3 Backlog
 | ID  | Title/Desc       | Asignee | Status  |
 | --- | ---------------- | ------- | ------  |
-| 2.1 | Reset            | Zhillan | DONE    |
-| 2.2 | Set Level        | Pujo    | DONE    |
+| 2.1 | Rapihin File     | Zhillan | DONE    |
+| 2.2 | Cek Bug          | Pujo    | DONE    |
 | 2.3 | Testing          | Zahran  | DONE    |
