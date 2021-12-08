@@ -1,12 +1,12 @@
 # Scrum Report (Sprint 2)
-| From dd/mm/yyyy to dd/mm/yyyy
+| From 24/12/2021 to 01/12/2021
 
 ## Team (Insert your name)
-| NPM           | Name        |
-| ------------- |-------------|
-| 140810xx00xx  | John Doe    |
-| 140810xx00xx  | Jane Doe    |
-| 140810xx00xx  | Lorem Ipsum |
+| NPM           | Name                     |
+| ------------- |-------------             |
+| 140810200018  | Zhillan Thafhan Ahda     |
+| 140810200038  | Pujo Prayogo             |
+| 140810200062  | Zahran Hanif Fathanmubin |
 
 ## Sprint Overview
 | Planned (n)   | Completed (n) |
@@ -14,18 +14,19 @@
 | n             | n             |
 
 ## Sprint 2 Backlog
+| ID  | Title/Desc | Asignee | Status  |
+| --- | ---------- | ------- | ------  |
+| 2.1 | Reset      | Zhillan | DONE    |
+| 2.2 | Set Level  | Pujo    | DONE    |
+| 2.3 | Buat UI    | Zahran  | DONE    |
 
-| ID  | Title/Desc | Asignee | Status |
-| --- | ---------- | ------- | ------ |
-| 2.1 | Preparing the x | Jane Doe | DONE |
-| 2.2 | Make the x | John Doe | FAILED |
+| 2.4 | Finishing  | Zahran, Zhillan, Pujo  |  DONE    |
+
 
 ## Retrospective 
-
-Sprint kemarin dianggap terlalu sedikit sehingga diperlukan adanya penyesuaian tugas. Lorem ipsum dolor sit amet
+Sprint kemarin dianggap terlalu sedikit sehingga diperlukan adanya penyesuaian tugas.
 
 ## Next Sprint Backlog (Sprint 3)
-| ID  | Title/Desc | Asignee | 
-| --- | ---------- | ------- | 
-| 3.1 | Preparing the x | Jane Doe | 
-| 3.2 | Make the x | John Doe | 
+| ID  | Title/Desc       | Asignee  | 
+| --- | ----------       | -------  | 
+| 3.2 | Rapihin Folder   | Pujo     |
