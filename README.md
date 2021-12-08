@@ -41,7 +41,7 @@ Tujuan membuat Aplikasi Game ini adalah untuk memenuhi tugas Proyek dari Praktik
 
 <!-- Skema Database -->
 ## Ketentuan Game
-<strong>Project UAS OOP â€“ Sudoku</strong>
+<strong>Project UAS OOP Sudoku</strong><br>
 A. Deskripsi masalah
 - Nama main file adalah â€˜Sudokuâ€™ (Contoh command: java Sudoku)
 - Ketika dijalankan, program akan membentuk (9 x 9) grid ubin dengan (3 x 3) sub-grids
