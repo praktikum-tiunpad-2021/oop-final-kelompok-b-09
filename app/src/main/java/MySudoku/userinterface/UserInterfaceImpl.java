@@ -232,7 +232,7 @@ public class UserInterfaceImpl implements IUserInterface.View,
     private void clueDialog(){
         Alert clue = new Alert(Alert.AlertType.NONE);
         clue.setTitle("Clue");
-        clue.setHeaderText("Tujuan permainan Sudoku adalah mengisi sel-sel yang kosong dengan angka antara 1 dan 9 (setiak sel hanya 1 angka) sesuai dengan petunjuk berikut:\n1. Angka hanya dapat muncul sekali dalam setiap baris\n2. Angka hanya dapat muncul sekali dalam setiap kolom\n3. Angka hanya dapat muncul sekali dalam setiap area");
+        clue.setHeaderText("Player harus mengisi kotak-kotak yang kosong dengan angka antara 1 dan 9 (setiap kotak hanya 1 angka) sesuai dengan petunjuk berikut:\n1. Angka hanya dapat muncul sekali dalam setiap baris\n2. Angka hanya dapat muncul sekali dalam setiap kolom\n3. Angka hanya dapat muncul sekali dalam setiap area");
         Window window = clue.getDialogPane().getScene().getWindow();
         
         clue.show();
