@@ -15,7 +15,8 @@
 | 3.2 | Bug Testing      | Pujo    | DONE    |
 | 3.3 | Buat Readme      | Zhillan | DONE    |
 | 3.4 | Rapihin Github   | Pujo    | DONE    |
-| 3.5 | Finishing        | Zahran  | DONE    |
+| 3.5 | Bug Solving      | All     | UNDONE  |
+| 3.5 | Finishing        | All     | DONE    |
 
 ## Sprint 3 Backlog
 | ID  | Title/Desc       | Asignee | Status  |
