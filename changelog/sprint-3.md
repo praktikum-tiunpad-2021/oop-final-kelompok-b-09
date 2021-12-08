@@ -18,6 +18,6 @@
 ## Sprint 2 Backlog
 | ID  | Title/Desc       | Asignee | Status  |
 | --- | ---------------- | ------- | ------  |
-| 2.1 | Rapihin File     | Zhillan | DONE    |
-| 2.2 | Cek Bug          | Pujo    | DONE    |
-| 2.3 | Testing          | Zahran  | DONE    |
+| 3.1 | Rapihin File     | Zhillan | DONE    |
+| 3.2 | Cek Bug          | Pujo    | DONE    |
+| 3.3 | Testing          | Zahran  | DONE    |
