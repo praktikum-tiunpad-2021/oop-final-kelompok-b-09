@@ -4,7 +4,7 @@
 <!-- HEADER PROYEK -->
 <br />
 <p align="center">
-  <h1>PROJECT OOP FINAL</h1>
+  <h1 align="center">PROJECT OOP FINAL</h1>
   <h3 align="center">Kelompok 9</h3>
   <p align="center">
     Pengimplementasian konsep OOP pada proyek mini-game Sudoku
