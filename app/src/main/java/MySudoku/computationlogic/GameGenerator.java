@@ -33,14 +33,14 @@ class GameGenerator{
             //allocations merupakan penanda sudah berapa kali sebuah value ditempatkan
             int allocations = 0;
 
-            //Interrupt berfungsi apabila alokasi terlalu sering dilakukan.
+            //Interrupt apabila alokasi terlalu sering dilakukan.
             //Jika hal tersebut terjadi, maka list allocTracker akan direset.
             int interrupt = 0;
 
-            //Mencatat setiap terjadi alokasi
+            //Mencatat tiap terjadi alokasi
             List<Coordinates> allocTracker = new ArrayList<>();
 
-            //Terlalu banyak attempts menandakan bahwa pola yang dibuat stuck. Maka board akan di reset sepenuhnya.
+            //Terlalu banyak attempts menandakan bahwa pola yang dibuat stuck. Maka board akan di reset.
             int attempts = 0;
 
             while (allocations < BATAS_GRID) {

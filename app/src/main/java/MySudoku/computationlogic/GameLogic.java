@@ -42,14 +42,6 @@ public class GameLogic {
         else return false;
     }
 
-
-    /*
-        Sebuah "square" adalah kotak 3x3
-        Example square:
-        [0][0], [1][0], [2][0]
-        [0][1], [1][1], [2][1]
-        [0][2], [1][2], [2][2]
-     */
     public static boolean squaresAreInvalid(int[][] grid) {
         //3 "square" atas
         if (rowOfSquaresIsInvalid(Rows.TOP, grid)) return true;
