@@ -19,14 +19,15 @@
 | 2.1 | Reset      | Zhillan | DONE    |
 | 2.2 | Set Level  | Pujo    | DONE    |
 | 2.3 | Buat UI    | Zahran  | DONE    |
-
-| 2.4 | Finishing  | Zahran, Zhillan, Pujo  |  DONE    |
+| 2.4 | Finishing  | Zahran  |  DONE    |
 
 
 ## Retrospective 
 Sprint kemarin dianggap terlalu sedikit sehingga diperlukan adanya penyesuaian tugas.
 
 ## Next Sprint Backlog (Sprint 3)
-| ID  | Title/Desc       | Asignee  | 
-| --- | ----------       | -------  | 
-| 3.2 | Rapihin Folder   | Pujo     |
+| ID  | Title/Desc       | Asignee | Status  |
+| --- | ---------------- | ------- | ------  |
+| 3.1 | Rapihin File     | Zhillan | DONE    |
+| 3.2 | Cek Bug          | Pujo    | DONE    |
+| 3.3 | Testing          | Zahran  | DONE    |
