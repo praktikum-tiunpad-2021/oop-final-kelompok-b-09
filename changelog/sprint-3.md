@@ -20,4 +20,4 @@
 | --- | ---------------- | ------- | ------  |
 | 2.1 | Reset            | Zhillan | DONE    |
 | 2.2 | Set Level        | Pujo    | DONE    |
-| 2.3 | Buat UI          | Zahran  | DONE    |
+| 2.3 | Testing          | Zahran  | DONE    |
