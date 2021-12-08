@@ -12,7 +12,7 @@
 | ID  | Title/Desc       | Asignee | Status  |
 | --- | ---------------- | ------- | ------  |
 | 3.1 | Rapihin File     | Zhillan | DONE    |
-| 3.2 | Cek Bug          | Pujo    | DONE    |
+| 3.2 | Bug Testing      | Pujo    | DONE    |
 | 3.3 | Testing          | Zahran  | DONE    |
 | 3.4 | Buat Readme      | Zhillan | DONE    |
 | 3.5 | Rapihin Github   | Pujo    | DONE    |
