@@ -18,7 +18,7 @@
     <li><a href="#anggota-tim">Anggota Tim</a></li>
     <li><a href="#fungsi">Fungsi</a></li>
     <li><a href="#tujuan">Tujuan</a></li>
-    <li><a href="#Ketentuan-Game">Skema Database</a></li>
+    <li><a href="#Ketentuan-Game">Ketentuan Game</a></li>
   </ol>
 </details>
 
